@@ -1,8 +1,9 @@
 <?php
-$Langue = 1;
+$Langue = "fr";
 
+$ServiceInconnue = "Service inconnue";
 $Deconnexion = "Déconnexion";
-$connexion = "Connexion";
+$Connexion = "Connexion";
 $Contact = "Contact";
 $APropos = "A propos";
 $chercher = "Rechercher";
@@ -13,5 +14,6 @@ $FAQ = "F.A.Q";
 $ContactSupport = "Contacter le support";
 $Coordonnees = "Coordonnées";
 $Genre = "Genre";
-$Aide = "Aide"
+$Aide = "Aide";
+
 ?>
